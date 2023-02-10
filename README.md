@@ -6,7 +6,7 @@
 <h5>- 🔭 I’m Currently Working With Ruby On Rails + Angular</h5>
 <h5>- 🌱 Developing Full-Stack Applications</h5>
 <h5>- 🤔 Exploring DevOps</h5>
-<h5>- 💬 Ask Me About Anything.</h5>
+<h5>- 💞️ I’m looking to collaborate on good projects</h5>
 <h5>- 📫 You can reach out to me at ... <a href="mailto:gohelhemangi9719@gmail.com">gohelhemangi9719@gmail.com</a></h5>
 <h5>- 😄 Pronouns : ... She/Her.</h5>
 
